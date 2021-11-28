@@ -32,3 +32,5 @@ Given a username and password, utilize the LogonUserA() function to interact wit
 [Understanding and Defending Against Access Token Theft: Finding Alternatives to winlogon.exe - SpecterOps](https://posts.specterops.io/understanding-and-defending-against-access-token-theft-finding-alternatives-to-winlogon-exe-80696c8a73b)
 
 [GhostPack\SharpWMI Source](https://github.com/GhostPack/SharpWMI)
+
+[@monoxgas](https://twitter.com/monoxgas/status/1109892490566336512?s=20)
