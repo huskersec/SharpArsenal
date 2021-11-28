@@ -23,10 +23,12 @@ Given a username and password, utilize the LogonUserA() function to interact wit
 
 ### References
 
-[Meterpreter elevator source](https://github.com/rapid7/meterpreter/tree/master/source/elevator)
+[Meterpreter Elevator Source](https://github.com/rapid7/meterpreter/tree/master/source/extensions/priv/server/elevate)
 
 [What happens when I type getsystem? - Cobalt Strike](https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/)
 
 [Windows Access Tokens and Alternate Credentials - Cobalt Strike](https://blog.cobaltstrike.com/2015/12/16/windows-access-tokens-and-alternate-credentials/)
 
 [Understanding and Defending Against Access Token Theft: Finding Alternatives to winlogon.exe - SpecterOps](https://posts.specterops.io/understanding-and-defending-against-access-token-theft-finding-alternatives-to-winlogon-exe-80696c8a73b)
+
+[GhostPack\SharpWMI Source](https://github.com/GhostPack/SharpWMI)
