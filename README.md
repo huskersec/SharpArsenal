@@ -23,4 +23,4 @@ Given a username and password, utilize the LogonUserA() function to interact wit
 
 ### References
 
-[Meterpreter elevator source] (https://github.com/rapid7/meterpreter/tree/master/source/elevator)
+[Meterpreter elevator source](https://github.com/rapid7/meterpreter/tree/master/source/elevator)
