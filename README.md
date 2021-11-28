@@ -1,5 +1,5 @@
 # SharpArsenal
-Repository of Windows offensive techniques implemented in C#
+Repository of Windows offensive techniques implemented in C#. Meant to be a study of techniques implemented in Cobalt Strike's Beacon, Metasploit's Meterpreter, and some Mimikatz functionality as well. 
 
 
 
@@ -17,3 +17,10 @@ Steal a token from a given PID or process name and create a new process with the
 
 ### MakeToken
 Given a username and password, utilize the LogonUserA() function to interact with network resources as the provided user.
+
+
+
+
+### References
+
+[Meterpreter elevator source] (https://github.com/rapid7/meterpreter/tree/master/source/elevator)
