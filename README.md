@@ -24,4 +24,5 @@ Given a username and password, utilize the LogonUserA() function to interact wit
 ### References
 
 [Meterpreter elevator source](https://github.com/rapid7/meterpreter/tree/master/source/elevator)
+
 [What happens when I type getsystem? - Cobalt Strike](https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/)
