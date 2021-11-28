@@ -15,3 +15,5 @@ Implements three techniques:
 Steal a token from a given PID or process name and create a new process with the token.
 
 
+### MakeToken
+Given a username and password, utilize the LogonUserA() function to interact with network resources as the provided user.
