@@ -19,6 +19,14 @@ Steal a token from a given PID or process name and create a new process with the
 Given a username and password, utilize the LogonUserA() function to interact with network resources as the provided user.
 
 
+### SpawnJect
+Mimick Cobalt Strike techniques for process injection. Implements five techniques:
+
+1. Spawn rundll32 (x86/x64) and inject a payload into the process
+2. Spawn to a program of choice (x86/x64) and inject a payload into the process
+3. Inject a payload into a currently-running process (x86/x64)
+4. Reflective DLL injection of a DLL of your choosing into a currently-running process (x86/x64) - thanks to @monoxgas for the sRDI project. I merely merged their project into this one to allow for reflective DLL injection.
+5. Load an on-disk DLL into a currently-running process (x86/x64)
 
 
 ### References
@@ -34,3 +42,5 @@ Given a username and password, utilize the LogonUserA() function to interact wit
 [GhostPack\SharpWMI Source](https://github.com/GhostPack/SharpWMI)
 
 [@monoxgas](https://twitter.com/monoxgas/status/1109892490566336512?s=20)
+
+[@monoxgas - sRDI Github Project](https://github.com/monoxgas/sRDI)
